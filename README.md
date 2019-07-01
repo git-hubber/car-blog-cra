@@ -33,3 +33,5 @@ npm run build
 yarn global add serve
 serve -s build
 ```
+
+[See it the wild](https://car-blog-cra-9eeb8.firebaseapp.com) 👀deployed on firebase
